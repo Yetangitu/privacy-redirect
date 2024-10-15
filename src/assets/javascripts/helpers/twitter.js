@@ -5,8 +5,11 @@
   */
 const targets = [
   "twitter.com",
+  "x.com",
   "www.twitter.com",
+  "www.x.com",
   "mobile.twitter.com",
+  "mobile.x.com",
   "pbs.twimg.com",
   "video.twimg.com",
 ];
